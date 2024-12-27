@@ -1,0 +1,12 @@
+p {
+    color: red;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+}
